@@ -1,0 +1,14 @@
+
+mpu6050
+	SDA<--->PB9
+	SCL<--->PB8
+
+OLED
+	SDA<--->PC5
+	SCL<--->PC4
+
+KEY
+	KEY1<--->PD1
+	KEY2<--->PD2
+	KEY3<--->PD3
+	KEY4<--->PD4
